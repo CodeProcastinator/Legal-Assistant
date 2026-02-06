@@ -1,0 +1,102 @@
+VENDOR AGREEMENT
+
+This Vendor Agreement ("Agreement") is made and entered into on January 15, 2024
+
+BETWEEN:
+
+ABC Technologies Pvt. Ltd., a company incorporated under the Companies Act, 2013, 
+having its registered office at 123 Tech Park, Bangalore, Karnataka 560001 
+(hereinafter referred to as the "Company")
+
+AND
+
+XYZ Suppliers, a partnership firm having its office at 456 Industrial Area, 
+Chennai, Tamil Nadu 600001 (hereinafter referred to as the "Vendor")
+
+WHEREAS the Company desires to engage the Vendor for supply of IT equipment and 
+related services, and the Vendor agrees to provide such supplies on the terms 
+set forth herein.
+
+NOW THEREFORE, the parties agree as follows:
+
+1. SCOPE OF SUPPLY
+1.1 The Vendor shall supply computer hardware, networking equipment, and 
+related accessories as specified in Purchase Orders issued by the Company.
+1.2 All goods must meet the specifications provided by the Company.
+
+2. TERM
+2.1 This Agreement is effective from January 15, 2024 and shall remain valid 
+for a period of two (2) years until January 14, 2026.
+2.2 The Agreement shall automatically renew for successive one-year periods 
+unless terminated by either party.
+
+3. PRICING AND PAYMENT
+3.1 Prices shall be as per Schedule A attached hereto.
+3.2 All prices are exclusive of GST which shall be charged at applicable rates.
+3.3 Payment shall be made within 7 days of invoice receipt.
+3.4 Payment shall be made in advance for orders exceeding Rs. 5,00,000.
+
+4. DELIVERY
+4.1 Delivery shall be made to Company's designated locations.
+4.2 In case of delay beyond 7 days, the Vendor shall pay penalty of 5% per week 
+of the order value, without any maximum cap.
+
+5. LIABILITY
+5.1 The Vendor shall be liable for all damages whatsoever arising from or in 
+connection with the supply of goods, including indirect and consequential damages.
+5.2 There shall be no limitation on the Vendor's liability under this Agreement.
+
+6. INDEMNIFICATION
+6.1 The Vendor shall indemnify and hold harmless the Company from any and all 
+claims, losses, damages, liabilities, and expenses (including attorney fees) 
+arising from or related to the Vendor's performance or non-performance.
+
+7. TERMINATION
+7.1 The Company may terminate this Agreement at any time without prior notice 
+at its sole discretion.
+7.2 The Vendor may terminate with 90 days prior written notice.
+7.3 Upon termination, all pending orders shall be fulfilled without payment.
+
+8. INTELLECTUAL PROPERTY
+8.1 All intellectual property rights in any customizations, modifications, or 
+developments shall vest exclusively with the Company, including any pre-existing 
+IP of the Vendor used in such work.
+
+9. CONFIDENTIALITY
+9.1 The Vendor shall maintain confidentiality of all Company information in 
+perpetuity, even after termination of this Agreement.
+
+10. WARRANTY
+10.1 All products and services are accepted on an AS-IS basis without any 
+express or implied warranties of merchantability or fitness for purpose.
+
+11. DISPUTE RESOLUTION
+11.1 This Agreement shall be governed by the laws of Singapore.
+11.2 Any disputes shall be resolved through arbitration in Singapore under 
+Singapore International Arbitration Centre rules.
+
+12. NON-COMPETE
+12.1 The Vendor shall not engage in any business competing with the Company 
+or supply similar products to Company's competitors for a period of 3 years 
+after termination of this Agreement.
+
+13. AUDIT RIGHTS
+13.1 The Company shall have the right to audit the Vendor's records, books, 
+and premises at any time without prior notice.
+
+14. AMENDMENT
+14.1 The Company reserves the sole right to modify or amend any terms of this 
+Agreement at its discretion.
+
+GSTIN (Vendor): 33AADPX1234M1ZJ
+PAN (Vendor): AADPX1234M
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date 
+first written above.
+
+For ABC Technologies Pvt. Ltd.          For XYZ Suppliers
+
+_______________________                  _______________________
+Authorized Signatory                     Partner
+
+Date: January 15, 2024                   Date: January 15, 2024

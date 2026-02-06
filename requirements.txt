@@ -1,0 +1,33 @@
+# Core Dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pdfplumber>=0.10.0
+
+# NLP & Text Processing
+spacy>=3.7.0
+nltk>=3.8.1
+regex>=2023.10.3
+
+# AI/LLM Integration
+google-generativeai>=0.3.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Report Generation
+reportlab>=4.0.0
+fpdf2>=2.7.0
+
+# Visualization
+plotly>=5.18.0
+
+# Date Processing
+python-dateutil>=2.8.2
+
+# File Handling
+chardet>=5.2.0
