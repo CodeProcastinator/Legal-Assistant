@@ -32,4 +32,5 @@ This tool helps small business owners analyze legal contracts, identify risks, a
 
 ---
 🌐 **Live Demo:** https://legal-assistant-q4sgmtbtlppkd8jwga9pmx.streamlit.app
+
 *Built for GUVI Hackathon 2026 | For educational purposes only.*
