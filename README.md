@@ -1,4 +1,4 @@
-# GenAI Legal Assistant - GUVI Hackathon 2026
+# GenAI Legal Assistant - GUVI Hackathon 2026[
 
 **AI-Powered Contract Analysis for Indian SMEs**
 
@@ -31,4 +31,5 @@ This tool helps small business owners analyze legal contracts, identify risks, a
 - **📄 Reports**: Export analysis as PDF or Text
 
 ---
+🌐 **Live Demo:** https://legal-assistant-q4sgmtbtlppkd8jwga9pmx.streamlit.app
 *Built for GUVI Hackathon 2026 | For educational purposes only.*
