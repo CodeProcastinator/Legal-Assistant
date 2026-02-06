@@ -1,4 +1,4 @@
-# GenAI Legal Assistant - GUVI Hackathon 2026[
+# GenAI Legal Assistant - GUVI Hackathon 2026
 
 **AI-Powered Contract Analysis for Indian SMEs**
 
